@@ -1,0 +1,72 @@
+{
+  "siteName": "Macrolab Digital",
+  "tagline": "YouTube Gaming Channel Growth Expert",
+  "fiverr": {
+    "gigUrl": "https://www.fiverr.com/s/xX9Rq2a",
+    "sellerName": "macrolab_39",
+    "rating": "5.0",
+    "totalOrders": "100+"
+  },
+  "contact": {
+    "location": "Dhaka, Bangladesh",
+    "languages": ["English", "Bengali", "Hindi", "Urdu"]
+  },
+  "pricing": {
+    "basic": {
+      "name": "Basic",
+      "subtitle": "Quick-Start Audit",
+      "price": 15,
+      "delivery": "2-Day Delivery",
+      "features": [
+        "Title & Description Review",
+        "Thumbnail Optimization",
+        "Hashtag & Keyword Research",
+        "1 Competitor Analysis",
+        "Quick-Start Action Plan",
+        "40 Minutes Material Review"
+      ]
+    },
+    "standard": {
+      "name": "Standard",
+      "subtitle": "Full In-Depth Audit",
+      "price": 25,
+      "delivery": "3-Day Delivery",
+      "featured": true,
+      "features": [
+        "Everything in Basic",
+        "Branding Analysis",
+        "Complete Channel SEO",
+        "3 Competitor Analyses",
+        "Step-by-Step Growth Guide",
+        "90 Minutes Material Review"
+      ]
+    },
+    "premium": {
+      "name": "Premium",
+      "subtitle": "Ultra Deep Audit",
+      "price": 40,
+      "delivery": "4-Day Delivery",
+      "features": [
+        "Everything in Standard",
+        "5 Competitor Analyses",
+        "Advanced Growth Blueprint",
+        "Priority Support",
+        "Live Consultation",
+        "180 Minutes Material Review"
+      ]
+    }
+  },
+  "stats": {
+    "channelsOptimized": "100+",
+    "averageRating": "5.0",
+    "resultsTimeframe": "7 Days",
+    "yearsExperience": "4+"
+  },
+  "colors": {
+    "primary": "#6366f1",
+    "secondary": "#ec4899",
+    "accent": "#10b981",
+    "dark": "#0f172a",
+    "light": "#f8fafc"
+  }
+}
